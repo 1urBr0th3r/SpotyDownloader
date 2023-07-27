@@ -7,3 +7,5 @@ this program allows you to download all the songs in a playlist. to make this pr
 to get everything you need, just do SpotyDownloader.exe --help. 
 there it explains everything there is to do to get the required data.
 in case of bugs, send an email to: angelo.mario.boni@gmail.com
+
+P.S. I had to use Google drive because GitHub blocked me for post >25mb files. Just download the zip and extract
