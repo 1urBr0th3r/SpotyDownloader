@@ -9,3 +9,7 @@ there it explains everything there is to do to get the required data.
 in case of bugs, send an email to: angelo.mario.boni@gmail.com
 
 P.S. I had to use Google drive because GitHub blocked me for post >25mb files. Just download the zip and extract
+
+so download it from here:
+
+# https://drive.google.com/drive/folders/1TrA0tlUnUHwz-icDUwQwI0JCCbe1kKx9?usp=sharing
