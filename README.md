@@ -15,3 +15,5 @@ To use it, you simply download the zip file (SpotyDownloaderExe.zip) and unpack 
 Then it will automatically run on CMD a pseudo-python program, which controls all downloaded songs in the chosen directory, and also automatically corrects errors that could occur while downloading.
 
 Have a nice try! Bye!
+
+P. S. If you are a full noob on how to download from GitHub, just press "Code" and then "Download ZIP", but then you download all the branch's files, OR you just click on the SpotyDownloader.zip file, then you press that button on top-right of your screen, which has 3 dots, and then you just press "Download".
