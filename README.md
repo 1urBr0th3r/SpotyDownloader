@@ -8,3 +8,10 @@ to get everything you need, just do SpotyDownloader.exe --help.
 there it explains everything there is to do to get the required data.
 in case of bugs, send an email to: angelo.mario.boni@gmail.com
 
+# HOW TO USE
+
+To use it, you simply download the zip file (SpotyDownloaderExe.zip) and unpack it. Then you just open the SpotyDownloader.exe file inside of it, and you are good to go! Simply put username, password and playlist's name when asked. You just need to trust this program (bc it is been downloaded just a few times so windows still doesnt recognize it as safe to use, but trust me, it is safe). Just keep the file, allow to connect to net and spotify when asked.
+
+Then it will automatically run on CMD a pseudo-python program, which controls all downloaded songs in the chosen directory, and also automatically corrects errors that could occur while downloading.
+
+Have a nice try! Bye!
