@@ -16,4 +16,4 @@ Then it will automatically run on CMD a pseudo-python program, which controls al
 
 Have a nice try! Bye!
 
-P. S. If you are a full noob on how to download from GitHub, just press "Code" and then "Download ZIP", but then you download all the branch's files, OR you just click on the SpotyDownloader.zip file, then you press that button on top-right of your screen, which has 3 dots, and then you just press "Download".
+P. S. If you are a full noob on how to download from GitHub, there is a tab on the right of your screen with "Releases". Just download the latest release by clicking on it and pressing on "Source code.zip", OR just press "Code" and then "Download ZIP", but then you download all the branch's files, OR you just click on the SpotyDownloader.zip file, then you press that button on top-right of your screen, which has 3 dots, and then you just press "Download".
